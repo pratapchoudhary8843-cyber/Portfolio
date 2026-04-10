@@ -251,5 +251,3 @@ The portfolio is fully responsive and optimized for:
 
 **Made with ❤️ by Pratap Choudhary**  
 *BSc Data Science Student | AI & ML Enthusiast*
-
-**Last Updated:** April 10, 2026
